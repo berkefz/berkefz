@@ -7,8 +7,20 @@
 - 🥅 2026 Goals: To make a hit that will be heard around the world 💸
 - ⚡ Fun fact: I love designing 🎨, play dama ♟
 
+### 📩 Connect with me:
+
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 
+<br />
+
+
+[instagram]: https://www.instagram.com/wiatoprak
+[medium]: https://.medium.com/berkefz
+[gmail]: mailto:toprakberkeiletisim@gmail.com
+<br />
 
 
 
