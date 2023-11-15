@@ -1,6 +1,6 @@
 ### Hi, I'm Berke 👋
 
-(https://media.tenor.com/iWu2wfO6cvwAAAAC/blue-lock-reo-mikage.gif)
+![blue-lock-reo-mikage](https://github.com/berkefz/berkefz/assets/108126511/e6ed055d-154d-47cd-a979-79a3123116c7)
 
 ## I'm a Freak Trying to Improve Himself! 🦍
 - 🔭 I'm currently working on a custom app called Sanal Manga 
