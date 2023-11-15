@@ -1,7 +1,6 @@
 ### Hi, I'm Berke 👋
 
-[<img align="right" alt="GIF" src="(https://media.tenor.com/iWu2wfO6cvwAAAAC/blue-lock-reo-mikage.gif)" width="500" height="320" />
-](https://media.tenor.com/iWu2wfO6cvwAAAAC/blue-lock-reo-mikage.gif)
+(https://media.tenor.com/iWu2wfO6cvwAAAAC/blue-lock-reo-mikage.gif)
 
 ## I'm a Freak Trying to Improve Himself! 🦍
 - 🔭 I'm currently working on a custom app called Sanal Manga 
