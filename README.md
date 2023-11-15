@@ -47,7 +47,7 @@
 <br />
 <br />
 
- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=berkefz&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkefz&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+[![My Skills](https://skills.thijs.gg/icons?i=java,js,py,c,clojure,git,mongodb,ruby,wasm,zig,vim,unity,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
+
 
 ![blue-lock-reo-mikage](https://github.com/berkefz/berkefz/assets/108126511/e6ed055d-154d-47cd-a979-79a3123116c7)
