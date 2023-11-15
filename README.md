@@ -39,15 +39,12 @@
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/berkefz
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
 
 <br />
 <br />
-
-[![My Skills](https://skills.thijs.gg/icons?i=java,js,py,c,clojure,git,mongodb,ruby,wasm,zig,vim,unity,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
-
 
 ![blue-lock-reo-mikage](https://github.com/berkefz/berkefz/assets/108126511/e6ed055d-154d-47cd-a979-79a3123116c7)
